@@ -1,0 +1,36 @@
+# Perfil estratégico pessoal (NÃO versionar — só o .template.md vai pro repo)
+perfil-do-usuario.md
+
+# Sessões / credenciais do Instagram
+session-*
+*.session
+cookies.json
+cookies.txt
+.env
+*.env
+
+# Saídas de coleta e temporários da análise
+coleta*/
+w_*/
+*.mp4
+*.mov
+*.webm
+*.mp3
+*.wav
+*.jpg
+*.jpeg
+*.png
+manifest.json
+*.legenda.txt
+ANALISE*.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# SO
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "skills": {
+    "instacreator": {
+      "source": "equinho/instacreator",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "ff1e86927d8970c91696ac2eac065e292d199b6e24ce72d6efec099503dd6465"
+    }
+  }
+}
